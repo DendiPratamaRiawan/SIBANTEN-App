@@ -1,8 +1,37 @@
-# Welcome to your Expo app 👋
+# SiBanten - Aplikasi Pelaporan Masyarakat
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+SIBANTEN adalah aplikasi mobile berbasis komunitas yang dirancang untuk mempermudah masyarakat Provinsi Banten dalam melaporkan masalah lingkungan dan fasilitas umum. Aplikasi ini menghubungkan masyarakat dengan instansi terkait secara transparan, cepat, dan akurat.
 
-## Get started
+## 📸 Tampilan Aplikasi
+
+Berikut adalah tampilan antarmuka dari aplikasi SiBanten:
+
+<img src="../SIBANTEN/assets/images/Login.jpg" width="300" alt="Tampilan Login SIBANTEN">
+<img src="../SIBANTEN/assets/images/Home.png" width="300" alt="Tampilan Home SIBANTEN">
+
+## 🚀 Fitur Utama
+
+- **Pelaporan Real-time**: Kirim laporan masalah lingkungan dilengkapi dengan foto dan lokasi GPS yang presisi.
+- **Verifikasi NIK**: Menjamin validitas data pengguna untuk mencegah laporan palsu/hoax.
+- **Monitoring Status**: Pantau tindak lanjut laporan Anda melalui notifikasi status secara _real-time_.
+- **Keamanan Data**: Menggunakan enkripsi untuk melindungi data pribadi dan privasi pengguna.
+
+## 🛠 Tech Stack
+
+Aplikasi ini dibangun menggunakan teknologi modern untuk performa dan keamanan terbaik:
+
+- **Frontend**: React Native, Expo
+- **Backend**: Firebase Authentication (Auth), Firestore (Database)
+- **Design/Prototyping**: Figma, Canva
+- **Tools**: Expo Router, Firebase SDK
+
+## 📱 Struktur Navigasi
+
+- **(auth)**: Menangani alur login dan autentikasi pengguna.
+- **(tabs)**: Navigasi utama aplikasi (Home, Aktivitas, Laporan, Notifikasi, Profile).
+- **Layar Tambahan**: Edit Profil, Verifikasi NIK, Tentang Aplikasi, Syarat & Ketentuan, Kebijakan Privasi.
+
+## 🛠 Instalasi & Pengembangan
 
 1. Install dependencies
 
