@@ -6,8 +6,8 @@ SIBANTEN adalah aplikasi mobile berbasis komunitas yang dirancang untuk mempermu
 
 Berikut adalah tampilan antarmuka dari aplikasi SiBanten:
 
-<img src="assets/images/Login.jpg" width="300" alt="Tampilan Login SIBANTEN">
-<img src="assets/images/Home.png" width="300" alt="Tampilan Home SIBANTEN">
+<img src="assets/images/Login.jpg" width="300" alt="Tampilan Login SIBANTEN"> <img src="assets/images/Home.png" width="300" alt="Tampilan Home SIBANTEN">
+
 
 ## 🚀 Fitur Utama
 
